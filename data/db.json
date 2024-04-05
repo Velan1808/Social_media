@@ -1,0 +1,34 @@
+{
+  "post": [
+    {
+      "id": "2",
+      "Header": "Javascript",
+      "date": "23/2/2024",
+      "Post": "this is concept used to create interactive web page."
+    },
+    {
+      "id": "3",
+      "Header": "React js",
+      "date": "18/03/2024",
+      "Post": "this is framework of the javascript"
+    },
+    {
+      "id": "4",
+      "Header": "Tailwnd CSS",
+      "date": "10/03/204",
+      "Post": "this is framework of the css"
+    },
+    {
+      "id": "5",
+      "Header": "GitHub",
+      "date": "23/2/2024",
+      "Post": "this is vision control system used for the collabrate with your project teammates."
+    },
+    {
+      "id": "6",
+      "Header": "MySql",
+      "date": "23/2/2024",
+      "Post": "this is database used for collecting and provide the dataset and used to back-end development."
+    }
+  ]
+}
